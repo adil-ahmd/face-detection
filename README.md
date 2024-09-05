@@ -1,2 +1,4 @@
 # face-detection
-face detection using caffe model
+THIS PROJECT DETECTS FACES FROM IMAGES AND LIVE VIDEOS
+
+
